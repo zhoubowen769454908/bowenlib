@@ -1,2 +1,0 @@
-What we see is the demo version, the condition is that the m/ Z difference is 162.0528, the error range is 0.001, and the retention time range is 0-0.1.If you want to get the version with changeable conditions, please contact 769454908@qq.com. The data file read in the demo is named 0V-10V ST-neg mix.csv, and the result file is named result.csv
-Compare. Exe is an executable file. Double-click to see the result result.csv for the sample
